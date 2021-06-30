@@ -8,7 +8,7 @@ A Python based program that prompts the user to guess the number randomly genera
 ## Screenshot
 ![Game Running](https://github.com/DiogoPoletti/Guess-The-Number/blob/main/Documentation/GessTheNumber.gif)
 
-> The number generated was displayed in the idle for demonstration purposes.
+> The number generated was displayed in the IDLE for demonstration purposes.
 
 ## What have I learnt
 Creating this program enabled me to practice a few aspects:
